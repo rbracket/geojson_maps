@@ -1,7 +1,1 @@
-{
-    "type": "Point",
-    "coordinates": [
-        -122.51,
-        46.57422
-    ]
-}
+{ "type": "Point",   "coordinates": [-122.51,46.57422]}
