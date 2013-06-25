@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 3, "cnt_id": 3, "lat": null, "long": null, "label_x": 4, "label_y": 3, "pedestrian": 194, "other": 17, "bicycles": 99 }, "geometry": { "type": "Point", "coordinates": [ -122.65457407923222, 45.530041630681652 ] } }
+,
+{ "type": "Feature", "properties": { "id": 2, "cnt_id": 2, "lat": null, "long": null, "label_x": 4, "label_y": 3, "pedestrian": 156, "other": 2, "bicycles": 93 }, "geometry": { "type": "Point", "coordinates": [ -122.64988734635283, 45.532836954057068 ] } }
+,
+{ "type": "Feature", "properties": { "id": 1, "cnt_id": 1, "lat": null, "long": null, "label_x": 4, "label_y": 1, "pedestrian": 85, "other": 0, "bicycles": 5 }, "geometry": { "type": "Point", "coordinates": [ -122.65863425442926, 45.529320389211222 ] } }
+,
+{ "type": "Feature", "properties": { "id": 6, "cnt_id": 6, "lat": null, "long": null, "label_x": 4, "label_y": 10, "pedestrian": 256, "other": 0, "bicycles": 15 }, "geometry": { "type": "Point", "coordinates": [ -122.662674, 45.53294 ] } }
+,
+{ "type": "Feature", "properties": { "id": 5, "cnt_id": 5, "lat": null, "long": null, "label_x": 4, "label_y": 3, "pedestrian": 741, "other": 6, "bicycles": 80 }, "geometry": { "type": "Point", "coordinates": [ -122.66370138488618, 45.53080289821029 ] } }
+,
+{ "type": "Feature", "properties": { "id": 4, "cnt_id": 4, "lat": null, "long": null, "label_x": 4, "label_y": 40, "pedestrian": 92, "other": 0, "bicycles": 3 }, "geometry": { "type": "Point", "coordinates": [ -122.65965233152509, 45.529323155360139 ] } }
+,
+{ "type": "Feature", "properties": { "id": 8, "cnt_id": 8, "lat": null, "long": null, "label_x": 4, "label_y": 1, "pedestrian": 57, "other": 0, "bicycles": 2 }, "geometry": { "type": "Point", "coordinates": [ -122.66066689036643, 45.52932644311948 ] } }
+,
+{ "type": "Feature", "properties": { "id": 7, "cnt_id": 7, "lat": null, "long": null, "label_x": 4, "label_y": 3, "pedestrian": 25, "other": 0, "bicycles": 9 }, "geometry": { "type": "Point", "coordinates": [ -122.6626671, 45.534353899999907 ] } }
+
+]
+}
